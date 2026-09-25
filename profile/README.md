@@ -1,4 +1,4 @@
-<img width="1024" height="256" alt="cstl" src="https://github.com/user-attachments/assets/7e099ef9-dd2d-496d-b82d-242d37882a6b" />
+<img width="1024" height="256" alt="cstl" src="https://github.com/user-attachments/assets/66b0267a-247d-407e-9c6a-c5c64b6ac322" />
 
 <h2 align="center">Service Status</h2>
 
